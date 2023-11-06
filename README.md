@@ -23,5 +23,4 @@ npm run bild
 есть адаптивная верстка под экран мобильного устройства 
 
 _________________________________________________________________
-PrintScreen
-https://github.com/pena1973/coment_system_TS/blob/master/ComentSystem.png
+
